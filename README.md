@@ -1,16 +1,16 @@
 ### Hi there 👋
+***
 
-<!--
-**aCursedComrade/aCursedComrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate, a wannabe red teamer in training, programming hobbyist and gamer living somewhere in Sri Lanka. Currently working on studies, finding ways to wriggle into bug hunting and maybe try making another C2 (Command & Control) framework because why not.
 
-Here are some ideas to get you started:
+[Click here](https://node-apps-acursedcomrade.koyeb.app/) to visit my website. You can find more social links and a quick way to message me there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [![aCursedComrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=aCursedComrade&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| :--: |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+
+**Notable repositories of mine:**
+
+[![Pentest-CTF-Handbook](https://github-readme-stats.vercel.app/api/pin/?username=aCursedComrade&repo=Pentest-CTF-Handbook&theme=radical)](https://github.com/aCursedComrade/Pentest-CTF-Handbook)
+
+> Made with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
