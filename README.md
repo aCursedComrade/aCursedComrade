@@ -7,6 +7,8 @@
 
 [![aCursedComrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=aCursedComrade&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![aCursedComrade's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aCursedComrade&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 :notebook: **Notable repositories of mine:**
