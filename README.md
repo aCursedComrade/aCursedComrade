@@ -5,7 +5,7 @@
 
 :point_right: [Click here](https://node-apps-acursedcomrade.koyeb.app/) to visit my website. You can find more social links and a quick way to message me there.
 
-[![aCursedComrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=aCursedComrade&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![aCursedComrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=aCursedComrade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![aCursedComrade's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@aCursedComrade&layout=compact&theme=radical&langs_count=8)](https://wakatime.com/@aCursedComrade)
 
