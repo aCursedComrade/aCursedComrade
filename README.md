@@ -1,9 +1,11 @@
 ### Hi there 👋
 ***
 
-:technologist: I'm an undergraduate, a wannabe red teamer in training, programming hobbyist and gamer living somewhere in Sri Lanka. Currently working on studies, finding ways to wriggle into bug hunting and maybe try making another C2 (Command & Control) framework because why not.
+:technologist: I'm an undergraduate, a wannabe red teamer in training, programming hobbyist and gamer from Sri Lanka. Currently working on studies, finding ways to wriggle into bug hunting and maybe try making another C2 (Command & Control) framework because why not.
 
 :point_right: [Click here](https://node-apps-acursedcomrade.koyeb.app/) to visit my website. You can find more social links and a quick way to message me there.
+
+[![](https://visitcount.itsvg.in/api?id=aCursedComrade&label=Profile%20Views%20(7%20days)&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 [![aCursedComrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=aCursedComrade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
