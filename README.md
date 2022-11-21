@@ -5,9 +5,13 @@
 
 ### 📊 Statistics:
 
-| [![GitHub](https://img.shields.io/badge/GitHub-Stats-black?logo=github&style=for-the-badge&logoWidth=16)](https://shields.io) | [![WakaTime](https://img.shields.io/badge/WakaTime-Stats-black?logo=wakatime&style=for-the-badge&logoWidth=16)](https://shields.io) |
-| ----- | ----- |
-| [![aCursedComrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=aCursedComrade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![aCursedComrade's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@aCursedComrade&layout=compact&theme=radical&langs_count=8)](https://wakatime.com/@aCursedComrade) |
+[![GitHub](https://img.shields.io/badge/GitHub-Stats-cyan?logo=github&style=for-the-badge&logoWidth=16)](https://shields.io)
+<br />
+> [![aCursedComrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=aCursedComrade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![WakaTime](https://img.shields.io/badge/WakaTime-Stats-cyan?logo=wakatime&style=for-the-badge&logoWidth=16)](https://shields.io)
+<br />
+> [![aCursedComrade's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@aCursedComrade&layout=compact&theme=radical&langs_count=8)](https://wakatime.com/@aCursedComrade)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)--->
 
