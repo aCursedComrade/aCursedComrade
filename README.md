@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🧑‍💻 I'm an undergraduate, a wannabe red teamer in training, programming hobbyist and gamer from Sri Lanka. Currently working on studies, finding ways to wriggle into bug hunting and maybe try making another C2 (Command & Control) framework because why not.
-- 👉 [Click here](https://node-apps-acursedcomrade.koyeb.app/) to visit my website. You can find more social links and a quick way to message me there.
+- 👉 [Click here](https://acursedcomrade.github.io/) to visit my website. You can find more social links and a quick way to message me there.
 
 <!--![](https://hit.yhype.me/github/profile?user_id=71869007)--->
 
