@@ -1,6 +1,4 @@
-# Hey there 👋
-
-- 🧑‍💻 I'm an __undergraduate__, a wannabe __red team operator__, a __programming hobbyist__ and a __gamer__ from Sri Lanka. Currently working on studies, finding ways to wriggle into bug hunting (cyber bugs 😉) and maybe try making another C2 (Command & Control) framework because why not.
+Hey there! I'm an infosec student trying to specialize in red team security and system administration. I work on my own projects as a programming hobbyist and write blog posts on things that I find interesting.
 
 ## 📊 Statistics
 
