@@ -4,11 +4,10 @@ Hey there! I'm an infosec student trying to specialize in system administration 
 [![Public GitHub stats](https://github-readme-stats.vercel.app/api?username=aCursedComrade&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) [![Public top langs](https://github-readme-stats.vercel.app/api/top-langs?username=aCursedComrade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<p float="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 aling="top" src="https://github-readme-stats.vercel.app/api?username=aCursedComrade&show_icons=true&theme=radical&hide_title=true&rank_icon=github" alt="public stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=aCursedComrade&show_icons=true&theme=radical&hide_progress=true" alt="top langs"/>
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160" aling="top" src="https://github-readme-stats.vercel.app/api?username=aCursedComrade&show_icons=true&theme=radical&hide_title=true&hide_rank=true" alt="public stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160" align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=aCursedComrade&show_icons=true&theme=radical&hide_progress=true" alt="top langs" />
+</a>
